@@ -16,7 +16,7 @@ package {
 	 */
 	public class Main {
 		///////////////////////
-		// PROPERTIES
+		// PROPERTIES GENERALES
 		///////////////////////
 		
 		private var _menu:Menu;
