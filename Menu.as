@@ -35,7 +35,7 @@ package {
 		}
 
 		public function clicBtn(nombreContenido:String):void {
-			//TODO
+			//TODO se pasa el parametro recibido a la funcion
 		}
 
 	}
