@@ -12,7 +12,7 @@ package botones_menu {
 	/**
 	 * botones_menu.BtnWeb
 	 *
-	 * @author YourName
+	 * @author Andy Jhonson
 	 */
 	public class BtnWeb {
 
